@@ -1,8 +1,8 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class PrimeTest {
-    Prime p = new Prime();
+public class LabTest {
+    Lab p = new Lab();
 
     /**
      * 7 is a prime number, so isPrime should return true.

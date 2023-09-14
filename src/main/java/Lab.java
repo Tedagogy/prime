@@ -1,4 +1,4 @@
-public class Prime {
+public class Lab {
     /**
      * A prime number isn't divisible by any number other than itself and 1 - like 3, 5, 7
      * @param n a int.
